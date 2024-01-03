@@ -10,6 +10,11 @@
 <a href="https://instagram.com/tanmaytoshniwal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram & logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://www.leetcode.com/tanmaytoshniwal8" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080"/>
+
+</a>
 <a href="https://www.hackerrank.com/profile/tanmaytoshniwal8" target="_blank">
   
 <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&color=%23000000"/>
@@ -17,10 +22,7 @@
 
 </a>
 
-<a href="https://www.leetcode.com/tanmaytoshniwal8" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080"/>
 
-</a>
 
 
 
