@@ -12,7 +12,7 @@
 </a>  
 <a href="https://www.hackerrank.com/profile/tanmaytoshniwal8" target="_blank">
   
-<img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&logoColor=white&color=%23000000 style="margin-bottom: 5px;">
+<img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&logoColor=white&color=%23000000 style="margin-bottom: 5px;"/>
 
 </a>
 
