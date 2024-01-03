@@ -10,7 +10,9 @@
 <a href="https://instagram.com/tanmaytoshniwal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.hackerrank.com/tanmaytoshniwal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanmaytoshniwal8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanmaytoshniwal8" target="blank">
+<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7jbVkrQcMYZe8_3ggQNV9NAz6G9iIHwXYtw&usqp=CAU)" alt="hackerRank" style="margin-bottom: 5px;" /></a>
+
 <a href="https://www.leetcode.com/tanmaytoshniwal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmaytoshniwal8" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" height="30" width="40" /></a>
 
