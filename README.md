@@ -12,10 +12,15 @@
 </a>  
 <a href="https://www.hackerrank.com/profile/tanmaytoshniwal8" target="_blank">
   
-<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.google.com%2Fimgres%3Fimgurl%3Dhttps%253A%252F%252Fcdn.worldvectorlogo.com%252Flogos%252Fhackerrank-4.svg%26tbnid%3D-Yz0GjOSUQtuDM%26vet%3D12ahUKEwj8q7_Cp8GDAxUQu2MGHWIJDpwQMygSegQIARBw..i%26imgrefurl%3Dhttps%253A%252F%252Fworldvectorlogo.com%252Flogo%252Fhackerrank-4%26docid%3Dr-SB_8Le3YcwQM%26w%3D2500%26h%3D2500%26q%3Dhackerrank%2520logo%2520png%26ved%3D2ahUKEwj8q7_Cp8GDAxUQu2MGHWIJDpwQMygSegQIARBw?style=flat-square&logo=Hacker%20Rank&logoColor=white&color=black style="margin-bottom: 5px;" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&logoColor=white&color=%23000000 style="margin-bottom: 5px;">
 
-<a href="https://www.leetcode.com/tanmaytoshniwal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmaytoshniwal8" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" height="30" width="40" /></a>
+</a>
+
+<a href="https://www.leetcode.com/tanmaytoshniwal8" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmaytoshniwal8" height="30" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" height="30" width="40" /></a>
 
 
 ### Glad to see you here!  
