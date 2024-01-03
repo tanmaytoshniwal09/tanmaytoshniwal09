@@ -17,11 +17,12 @@
 
 </a>
 
-<a href="https://www.leetcode.com/tanmaytoshniwal8" target="blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23000000&color=%23000000"/>
+<a href="https://www.leetcode.com/tanmaytoshniwal8" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080"/>
+
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" target="blank">
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tanmaytoshniwal8" height="30" width="40" /></a>
 
 
