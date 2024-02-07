@@ -1,19 +1,19 @@
 ## Hi 👋, I'm Tanmay Toshniwal  
 
 <a href="https://github.com/tanmaytoshniwal09" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-right: 10px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-right: 15px;" />
 </a>
 <a href="https://www.linkedin.com/in/tanmay-toshniwal-450951204/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-right: 10px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-right: 15px;" />
 </a>
 <a href="https://instagram.com/tanmaytoshniwal" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-right: 10px;" />
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-right: 15px;" />
 </a>
 <a href="https://www.leetcode.com/tanmaytoshniwal8" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080" style="margin-right: 10px;" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080" style="margin-right: 15px;" />
 </a>
 <a href="https://www.hackerrank.com/profile/tanmaytoshniwal8" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&color=%23000000" style="margin-right: 10px;" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&color=%23000000" style="margin-right: 15px;" />
 </a>
 
 ### Glad to see you here!  
@@ -59,19 +59,19 @@ Aside from my academic pursuits, I have a passion for art and painting, which al
 
 ## Languages and Tools  
 <div>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="45" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="45" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="45" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="45" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="45" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="45" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>  
 </div>  
 
 <br/>  
