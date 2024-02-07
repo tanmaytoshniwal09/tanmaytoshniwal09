@@ -1,19 +1,19 @@
 ## Hi 👋, I'm Tanmay Toshniwal  
 
 <a href="https://github.com/tanmaytoshniwal09" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-right: 15px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-right: 25px;" />
 </a>
 <a href="https://www.linkedin.com/in/tanmay-toshniwal-450951204/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-right: 15px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-right: 25px;" />
 </a>
 <a href="https://instagram.com/tanmaytoshniwal" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-right: 15px;" />
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-right: 25px;" />
 </a>
 <a href="https://www.leetcode.com/tanmaytoshniwal8" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080" style="margin-right: 15px;" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-%2523000000.svg?style=for-the-badge&logo=leetcode&labelColor=%23808080&color=%23808080" style="margin-right: 25px;" />
 </a>
 <a href="https://www.hackerrank.com/profile/tanmaytoshniwal8" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&color=%23000000" style="margin-right: 15px;" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-%2523000000.svg?style=for-the-badge&logo=HackerRank&color=%23000000" style="margin-right: 25px;" />
 </a>
 
 ### Glad to see you here!  
